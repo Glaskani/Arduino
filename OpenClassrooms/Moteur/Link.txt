@@ -1,0 +1,4 @@
+Contrôleur de moteurs pas à pas et à courant continu 375 HW-95
+	http://pbelaire.free.fr/wordpress/?page_id=219
+28BYJ-48 stepper motor and ULN2003 Arduino (Quick tutorial for beginners)
+	https://www.youtube.com/watch?v=avrdDZD7qEQ
